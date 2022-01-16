@@ -1,0 +1,21 @@
+name: getxbottombar
+description: For using GetX Navigation With Bindings in BottomBar.
+version: 0.0.1
+homepage: https://github.com/rohitsangwan01/GetxBottomBar.git
+repository: https://github.com/rohitsangwan01/GetxBottomBar.git
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
